@@ -1,0 +1,136 @@
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+
+## intent:my_name
+- im [eric](name)
+- im [Eric](name)
+- [Eric](name)
+- My name is [Juste](name)  
+- I am [Josh](name)
+- I'm [Lucy](name)
+- People call me [Greg](name)
+- It's [David](name)
+- Usually people call me [Amy](name)
+- My name is [John](name)
+- You can call me [Sam](name)
+- Please call me [Linda](name)
+- Name name is [Tom](name)
+- I am [Richard](name)
+- I'm [Tracy](name)
+- Call me [Sally](name)
+- I am [Philipp](name)
+- I am [Charlie](name)
+- I am [Charlie](name)
+- I am [Ben](name)
+- Call me [Susan](name)
+- [Lucy](name)
+- [Peter](name)
+- [Mark](name)
+- [Joseph](name)
+- [Tan](name)
+- [Pete](name)
+- [Elon](name)
+- [Penny](name)
+- name is [Andrew](name)
+- I [Lora](name)
+- [Stan](name) is my name
+- [Susan](name) is the name
+- [Ross](name) is my first name
+- [Bing](name) is my last name
+- Few call me as [Angelina](name)
+- Some call me [Julia](name)
+- Everyone calls me [Laura](name)
+- I am [Ganesh](name)
+- My name is [Mike](name)
+- just call me [Monika](name)
+- Few call [Dan](name)
+- You can always call me [Suraj](name)
+- Some will call me [Andrew](name)
+- My name is [Ajay](name)
+- I call [Ding](name)
+- I'm [Partia](name)
+- Please call me [Leo](name)
+- name is [Pari](name)
+- name [Sanjay](name)
+
+## intent:ask_my_name
+- what is my name?
+- May i know my name?
+- What is my name?
+- What do I call myself?
+- Tell me my name.
+- Explain my name to me.
+- What could be my name?
+- What name do I go by?
+- What name should I recognize for myself?
+- what's my name?
+- can you tell me my name?
+- What is my name?
+- Do I have a name?
+- Do I have a name? What is it?
+- What was I named?
+- Say my name.
+- Do you know my name?
+- What do people call me?
+- Can you tell me my name?
+- What else do people call me?
+- I have a name, what is it?
+- Tell me my name
+- I'd like to know my name
+- Inform me what my name is
+- Please let me know what my name is
+- Can you tell me what I am called?
+- I'd like to know what my name is
+- What is the name I was given?
+- What does everyone call me?
+- What am I called?
+- What did my parents name me?
+- What do my colleagues call me?
+- What would be the name on my tombstone?
+- Do you know what my name is?
+- What is my first name?
+- What is my full name?
+- What do people call me?
+- What exactly is my name?
+
+## intent:ask_who_am_i
+- Who am I?
+- Okay who am I?
+- WHo am I
+- Tell me who am I?
+- Tell me who I am?
+- Do you know who I am?
+- Can you tell me who I am?
+- How do I discover who I am?
+- How can I determine who I am?
+- Do you know who am I?
+- Can you tell me who am I?
+- How do I discover who am I?
+- How can I determine who am I?
+- who are I ?
+- who may i ?
+- Shall i know who am i?
+- Tell me who I am.
+- How do I identify myself?
+- Who could I be?
+- tell me who I am?
+- what's my identity?
+- tell me what my identity is?
+- can you tell me what I am?
+- can you tell me what my identity is?
+- can you tell me who I am?
+- who am i

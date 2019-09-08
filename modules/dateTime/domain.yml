@@ -1,0 +1,15 @@
+intents:
+  - ask_time
+  - ask_coordinates
+
+entities:
+- timezone
+- location
+
+slots:
+  timezone:
+    type: text  
+
+actions:
+  - action_ask_current_time
+  - action_ask_coordinates

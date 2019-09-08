@@ -1,0 +1,16 @@
+intents:
+- thanks
+
+actions:
+- utter_thanks
+- action_thanks
+- action_thanks2
+
+templates:
+  utter_thanks:
+  - text: "My pleasure"
+  - text: "No problem"
+  - text: "You're welcome"
+  - text: "Sure thing"
+  - text: "Anytime"
+  

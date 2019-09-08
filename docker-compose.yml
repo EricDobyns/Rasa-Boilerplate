@@ -1,0 +1,43 @@
+version: '3.0'
+
+services:
+  rasa_core:
+    container_name: rasa_core
+    image: rasa/rasa_core:latest
+    ports:
+      - 9002:5005
+    volumes:
+      - ./models/rasa_core:/app/models
+      - ./endpoints.yml:/app/endpoints.yml
+      - ./credentials.yml:/app/credentials.yml
+    command:
+      - start
+      - --core
+      - models
+      - -c
+      - ${Adapter}
+      - --credentials
+      - credentials.yml
+      - --endpoints
+      - endpoints.yml
+      - -u
+      - current/
+      - --debug
+
+  rasa_actions:  
+    container_name: rasa_actions
+    image: rasa_actions
+    build:
+      context: ./
+    volumes: 
+     - ./build/actions:/app/actions
+
+  rasa_nlu:
+    container_name: rasa_nlu
+    image: rasa/rasa_nlu:latest-spacy
+    volumes:
+      - ./models/rasa_nlu:/app/models
+    command:
+      - start
+      - --path
+      - models

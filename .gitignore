@@ -1,0 +1,7 @@
+.vscode/
+__pycache__
+build/
+models/rasa_core/**/*
+models/rasa_nlu/**/*
+rasa_core.log
+credentials.yml

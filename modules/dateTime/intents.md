@@ -1,0 +1,49 @@
+## intent:ask_time
+- what is the current time?
+- what is the time?
+- whats the time now
+- what is the time ?
+- what time it is
+- What is the time?
+- Can you give me the time?
+- Time?
+- Do you know the time?
+- Can you tell the time?
+- Give me the time.
+- Tell me the time.
+- Could you tell me what time is it?
+- Excuse me, what time is it?
+- Do you know what time it is?
+- Could you tell me the time?
+- Could you tell me the time, please?
+- What is the time?
+- Do you know the time?
+- Would you tell me what time it is?
+- Time, please!
+- Pardon me, but do you know the time?
+- Time?
+- What's the time?
+- Do you know what time it is?
+- What's the current time?
+- What time is it right now?
+- Do you have the time?
+- Can you tell me what time it is?
+- Hi, I need the time.
+- I need to know what time it is.
+- Tell me the time.
+- What is the time?
+- What's the time right now?
+- What is the current time?
+- Can you tell me the time?
+- What might the time be?
+- What is the hour and minute right now?
+- What time have we got?
+- What time is it right now?
+
+## intent:ask_coordinates
+- What are the coordiante for [Orange, CA](location)
+- What is the latlng for [Orange, CA](location)
+- What is the latitude and longitude for [Orange, CA](location)
+- What is the geolocation of [Orange, CA](location)
+- What coordinates is [Orange, CA](location) located at?
+- What coordinate of [Orange, CA](location)

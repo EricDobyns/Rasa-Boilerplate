@@ -1,0 +1,6 @@
+intents:
+- joke
+
+actions:
+- action_joke
+

@@ -1,0 +1,13 @@
+intents:
+- goodbye
+
+actions:
+- utter_goodbye
+
+templates:
+  utter_goodbye:
+  - text: "Talk to you later!"
+  - text: "See ya"
+  - text: "Later"
+  - text: "Bye"
+  

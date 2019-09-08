@@ -1,0 +1,24 @@
+intents:
+- greet
+- my_name
+
+entities:
+- name
+
+slots:
+  name:
+    type: text  
+
+actions:
+- action_greet
+- utter_nice_to_meet_you_name
+- utter_my_name
+
+templates:
+  utter_nice_to_meet_you_name:
+  - text: "Nice to you meet you {name}. How can I help?"
+  - text: "Hi {name}. What can I do for you?"
+  utter_my_name:
+  - text: "Your name is {name}"
+  - text: "Your name is {name}, right?"
+  - text: "You told me that your name is {name}"

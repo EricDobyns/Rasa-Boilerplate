@@ -1,0 +1,3 @@
+pytz==2019.1
+tzwhere==3.0.3
+geocoder==1.17.3
